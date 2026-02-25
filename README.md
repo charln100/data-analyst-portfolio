@@ -19,8 +19,9 @@ I am on a learning journey to become a data analyst. This portfolio documents my
 - West region leads in sales at $725,457 — 85% higher than the South region ($391,721)
 - Technology is the top product category at $836,154, with all three categories within a relatively tight range
 - Average order value: $229.86, with a maximum single order of $22,638.48
+- Identified data quality issues including ship dates preceding order dates, indicating data entry errors in the source dataset
 
-**Skills demonstrated:** Data cleaning, pivot tables, charts, business insight writing
+**Skills demonstrated:** Data cleaning(including date formatting issues), pivot tables, charts, business insight writing
 
 ---
 
