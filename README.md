@@ -21,7 +21,7 @@ I am on a learning journey to become a data analyst. This portfolio documents my
 - Average order value: $229.86, with a maximum single order of $22,638.48
 - Identified data quality issues including ship dates preceding order dates, indicating data entry errors in the source dataset
 
-**Skills demonstrated:** Data cleaning(including date formatting issues), pivot tables, charts, business insight writing
+**Skills demonstrated:** Data cleaning(including date formatting issues), pivot tables, charts, business insight writing, SQL (SELECT, FROM, WHERE, GROUP BY, ORDER BY, LIMIT)
 
 **Analysis Summary:**
 The Superstore dataset contains 9,994 orders totaling $2.3M in revenue with an average order value of $229.86. Geographically, the West leads with $725K in sales while the South significantly underperforms at $392K, raising the question of whether this gap is driven by population size, product availability, or sales team performance.
@@ -34,6 +34,6 @@ Operationally, Standard Class is the dominant shipping method, suggesting custom
 
 ## Skills In Progress
 - Google Sheets ✅
-- SQL (learning)
+- SQL (in progress)
 - Python (coming soon)
 - Tableau (coming soon)
